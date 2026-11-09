@@ -39,5 +39,5 @@ def main():
         print(node_value)
 
 # Invocando a main
-if __name__ == "__main__":
+if __name__ == "__name__":
     main()     
